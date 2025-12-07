@@ -1,61 +1,224 @@
 {
   "basics": {
-    "name": "Dr. Feline Purrington",
-    "label": "Distinguished Professor of String Theory",
-    "image": "images/scholarly-cat.png",
-    "email": "meow@university.edu",
-    "location": "The Sunbeam on the Rug, Apt 4B",
-    "bio": "I am a **Tenured Professor** at the Institute of Advanced Napping. My research primarily focuses on *Applied String Theory* (chasing yarn), *Gravitational Anomalies* (pushing cups off tables), and the *Psychology of the Red Dot*. When not researching, I can be found judging you silently from atop the bookshelf.",
+    "name": "Tunga Güngör",
+    "label": "Professor, Department of Computer Engineering",
+    "image": "images/profile.jpg",
+    "email": "gungort@boun.edu.tr",
+    "phone": "+90 (212) 359 70 94",
+    "location": "Boğaziçi University, Dept. of Computer Engineering, Bebek, 34342, Istanbul, Turkey",
+    "bio": "I am a **Professor** at the Department of Computer Engineering, Boğaziçi University. My research focuses on *Natural Language Processing*, *Machine Translation*, *Machine Learning*, and *Artificial Intelligence*. I lead research projects on Turkish NLP resources, text classification, speech recognition, and information extraction.",
     "social": [
-      { "network": "Scholar", "url": "#", "icon": "bi-mortarboard-fill", "color": "primary" },
-      { "network": "InstaCat", "url": "#", "icon": "bi-instagram", "color": "danger" },
-      { "network": "GitHub", "url": "#", "icon": "bi-github", "color": "dark" }
+      { "network": "Google Scholar", "url": "https://scholar.google.com/citations?user=SCHOLAR_ID", "icon": "bi-mortarboard-fill", "color": "primary" },
+      { "network": "DBLP", "url": "https://dblp.org/pid/g/TungaGungor.html", "icon": "bi-journal-text", "color": "secondary" }
     ]
   },
   "interests": [
-    "Thermodynamics of Sunbeams",
-    "Box Topology (If I Fits, I Sits)",
-    "Ornithological Surveillance",
-    "Midnight Zoomies"
+    "Natural Language Processing",
+    "Machine Translation",
+    "Machine Learning",
+    "Artificial Intelligence",
+    "Pattern Recognition",
+    "Speech Recognition",
+    "Text Classification"
+  ],
+  "education": [
+    {
+      "degree": "Ph.D. in Computer Engineering",
+      "institution": "Boğaziçi University",
+      "years": "1989-1995"
+    },
+    {
+      "degree": "M.S. in Computer Engineering",
+      "institution": "Boğaziçi University",
+      "years": "1987-1989"
+    },
+    {
+      "degree": "B.S. in Computer Engineering",
+      "institution": "Boğaziçi University",
+      "years": "1983-1987"
+    }
+  ],
+  "experience": [
+    {
+      "position": "Professor",
+      "institution": "Boğaziçi University, Dept. of Computer Engineering",
+      "years": "2013-Present"
+    },
+    {
+      "position": "Visiting Professor",
+      "institution": "Universitat Politècnica de Catalunya, TALP Research Center",
+      "years": "2011-2012"
+    },
+    {
+      "position": "Associate Professor",
+      "institution": "Boğaziçi University, Dept. of Computer Engineering",
+      "years": "2007-2013"
+    },
+    {
+      "position": "Assistant Professor",
+      "institution": "Boğaziçi University, Dept. of Computer Engineering",
+      "years": "2001-2007"
+    },
+    {
+      "position": "Assistant Professor",
+      "institution": "Boğaziçi University, Dept. of Management Information Systems",
+      "years": "1999-2001"
+    }
   ],
   "news": [
-    { "date": "Nov 2024", "text": "Narrowly missed catching the **Red Dot**. Further funding required for high-speed camera analysis." },
-    { "date": "Oct 2024", "text": "Published a controversial op-ed: *'Why the vacuum cleaner is the enemy of progress'*." },
-    { "date": "Sep 2024", "text": "Successfully slept for 18 hours straight. New lab record." }
+    { "date": "2023", "text": "Published paper on **Morphologically Motivated Input Variations** in Turkish-English Neural Machine Translation in TALIP." },
+    { "date": "2023", "text": "**TULAP** platform for Turkish NLP resources presented at EACL 2023." },
+    { "date": "2022", "text": "Published paper on **Turkish Abstractive Text Summarization** using Pretrained Sequence-to-Sequence Models." }
+  ],
+  "courses": [
+    {
+      "code": "CMPE300",
+      "name": "Analysis of Algorithms"
+    },
+    {
+      "code": "CMPE320",
+      "name": "Principles of Programming Languages"
+    },
+    {
+      "code": "CMPE542",
+      "name": "Automated Theorem Proving"
+    },
+    {
+      "code": "CMPE590",
+      "name": "Special Topics: Machine Translation"
+    },
+    {
+      "code": "EE586",
+      "name": "Statistical Language Processing"
+    }
   ],
   "projects": [
     {
-      "title": "Operation: Empty Bowl",
-      "image": "images/empty-bowl.webp",
-      "summary": "An investigation into the human inability to perceive that a bowl is empty when the center is visible.",
-      "tags": ["Psychology", "Food Science", "Meowing"],
+      "title": "BOUN Treebank",
+      "image": "images/treebank.png",
+      "summary": "A comprehensive Turkish dependency treebank and the BoAT annotation tool for Turkish NLP research.",
+      "tags": ["NLP", "Turkish", "Treebank", "Dependency Parsing"],
       "url": "#"
     },
     {
-      "title": "The Box Paradox",
-      "image": "images/cat-in-a-box.webp",
-      "summary": "A study on spatial geometry: demonstrating that a cat of volume *V* can fit into a box of volume *0.5V*.",
-      "tags": ["Physics", "Geometry", "Liquid State"],
+      "title": "TULAP Platform",
+      "image": "images/tulap.png",
+      "summary": "An accessible and sustainable platform for Turkish Natural Language Processing resources.",
+      "tags": ["NLP", "Turkish", "Platform", "Resources"],
+      "url": "#"
+    },
+    {
+      "title": "Turkish Speech Recognition",
+      "image": "images/speech.png",
+      "summary": "Morphology-based language modeling for Turkish automatic speech recognition systems.",
+      "tags": ["Speech Recognition", "Turkish", "Morphology"],
+      "url": "#"
+    },
+    {
+      "title": "Machine Translation",
+      "image": "images/mt.png",
+      "summary": "Research on Turkish-English neural machine translation with morphological awareness.",
+      "tags": ["Machine Translation", "NLP", "Neural Networks"],
       "url": "#"
     }
   ],
-  "publications": [
+  "selected_publications": [
     {
-      "title": "Gravity Verification: An Empirical Study of Glassware on Table Edges",
-      "authors": "**F. Purrington**, Mittens, O. G.",
-      "venue": "Journal of Chaotic Dynamics, 2023",
+      "title": "Resources for Turkish Dependency Parsing: Introducing the BOUN Treebank and the BoAT Annotation Tool",
+      "authors": "U. Türk, F. Atmaca, Ş.B. Özateş, G. Berk, S.T. Bedir, A. Köksal, B. Öztürk, **T. Güngör**, A. Özgür",
+      "venue": "Language Resources and Evaluation, Vol.56(1), p.259-307, 2022",
       "links": [
-        { "name": "PDF (Chewed)", "url": "#" },
-        { "name": "Video Evidence", "url": "#" }
+        { "name": "Paper", "url": "#" }
       ]
     },
     {
-      "title": "The 3 AM Song: Acoustic Analysis of Nocturnal Vocalizations",
-      "authors": "**F. Purrington**",
-      "venue": "Proceedings of the Sleep Deprivation Society, 2022",
+      "title": "Abstractive Text Summarization and New Large-scale Datasets for Agglutinative Languages Turkish and Hungarian",
+      "authors": "B. Baykara, **T. Güngör**",
+      "venue": "Language Resources and Evaluation, Vol.56(3), p.973-1007, 2022",
       "links": [
-        { "name": "Audio", "url": "#" }
+        { "name": "Paper", "url": "#" }
+      ]
+    },
+    {
+      "title": "Sentiment Analysis in Turkish: Supervised, Semi-supervised, and Unsupervised Techniques",
+      "authors": "C.R. Aydın, **T. Güngör**",
+      "venue": "Natural Language Engineering, Vol.27(4), p.455-483, 2021",
+      "links": [
+        { "name": "Paper", "url": "#" }
+      ]
+    },
+    {
+      "title": "The Effect of Morphology in Named Entity Recognition with Sequence to Sequence Tagging",
+      "authors": "O. Güngör, S. Üsküdarlı, **T. Güngör**",
+      "venue": "Natural Language Engineering, Vol.25(1), p.147-169, 2019",
+      "links": [
+        { "name": "Paper", "url": "#" }
+      ]
+    },
+    {
+      "title": "Resources for Turkish Morphological Processing",
+      "authors": "H. Sak, **T. Güngör**, M. Saraçlar",
+      "venue": "Journal of Language Resources and Evaluation, Vol.45, p.249-261, 2011",
+      "links": [
+        { "name": "Paper", "url": "#" }
+      ]
+    },
+    {
+      "title": "A Stochastic Finite-State Morphological Parser for Turkish",
+      "authors": "H. Sak, **T. Güngör**, M. Saraçlar",
+      "venue": "ACL-IJCNLP 2009, p.273-276, Singapore",
+      "links": [
+        { "name": "Paper", "url": "#" }
+      ]
+    },
+    {
+      "title": "Part-of-speech Tagging (Book Chapter)",
+      "authors": "**T. Güngör**",
+      "venue": "Handbook of Natural Language Processing, 2nd Ed, Taylor and Francis, 2010",
+      "links": [
+        { "name": "Book", "url": "#" }
       ]
     }
-  ]
+  ],
+  "theses": {
+    "phd": [
+      {
+        "student": "Canan Pembe",
+        "title": "Automated Query-Biased and Structure-Preserving Document Summarization for Web Search Tasks",
+        "year": "2010"
+      },
+      {
+        "student": "Levent Özgür",
+        "title": "Improving Text Classification Performance with the Analysis of Lexical Dependencies and Class-based Feature Selection",
+        "year": "2010"
+      },
+      {
+        "student": "Haşim Sak",
+        "title": "Large Vocabulary Continuous Speech Recognition for Agglutinative Languages",
+        "year": "2009"
+      }
+    ],
+    "ms": [
+      {
+        "student": "Acar Erkek",
+        "title": "Mixture of Experts Learning in Automated Theorem Proving",
+        "year": "2010"
+      },
+      {
+        "student": "Onur Güngör",
+        "title": "Morphological Annotation of a Corpus with a Collaborative Multiplayer Game",
+        "year": "2009"
+      },
+      {
+        "student": "Şerafettin Taşçı",
+        "title": "An Evaluation of Existing and New Feature Selection Metrics in Automatic Text Categorization",
+        "year": "2007"
+      },
+      {
+        "student": "Haşim Sak",
+        "title": "A Corpus-Based Concatenative Speech Synthesis System for Turkish",
+        "year": "2004"
+      }
+    ]
+  }
 }
