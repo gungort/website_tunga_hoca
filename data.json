@@ -6,7 +6,7 @@
     "email": "gungort@boun.edu.tr",
     "phone": "+90 (212) 359 70 94",
     "location": "Boğaziçi University, Dept. of Computer Engineering, Bebek, 34342, Istanbul, Turkey",
-    "bio": "I am a **Professor** at the Department of Computer Engineering, Boğaziçi University . My research focuses on *Natural Language Processing*, *Machine Translation*, *Machine Learning*, and *Artificial Intelligence*. I lead research projects on Turkish NLP resources, text classification, speech recognition, and information extraction.",
+    "bio": "I am a **Professor** at the Department of Computer Engineering, Boğaziçi University. My research focuses on *Natural Language Processing*, *Machine Translation*, *Machine Learning*, and *Artificial Intelligence*. I lead research projects on Turkish NLP resources, text classification, speech recognition, and information extraction.",
     "social": [
       { "network": "Google Scholar", "url": "https://scholar.google.com/citations?user=SCHOLAR_ID", "icon": "bi-mortarboard-fill", "color": "primary" },
       { "network": "DBLP", "url": "https://dblp.org/pid/g/TungaGungor.html", "icon": "bi-journal-text", "color": "secondary" }
